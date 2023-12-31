@@ -1,4 +1,6 @@
 
+
+
 # FoodyCemy
 
 ## Bu proje, kullanıcıların çeşitli restoranlardan yemek siparişi verebileceği basit bir web uygulamasını içermektedir. React ve Tailwind CSS kullanılarak geliştirilmiştir.
@@ -6,7 +8,7 @@
 
 ## Demo
 
-![](https://github.com/FoodyCemy/demo-foodycemy.gif)
+![](screenshots/react-foodycemy.gif)
 
 
   
@@ -45,6 +47,14 @@ Sunucuyu çalıştırın
 ```
 
   
+
+![](screenshots/screenshots1.png)
+![](screenshots/screenshots3.png)
+![](screenshots/screenshots4.png)  
+
+
+    
+
 
   
 

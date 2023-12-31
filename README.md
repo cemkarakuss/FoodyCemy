@@ -48,9 +48,9 @@ Sunucuyu çalıştırın
 
   
 
-![](screenshots/screenshots1.png)
-![](screenshots/screenshots3.png)
-![](screenshots/screenshots4.png)  
+![ScreenShot1](screenshots/screenshots1.png)
+![ScreenShot2](screenshots/screenshots3.png)
+![ScreenShot3](screenshots/screenshots4.png)  
 
 
     
